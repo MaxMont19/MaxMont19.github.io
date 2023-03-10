@@ -15,8 +15,8 @@
 @import url("https://fonts.googleapis.com/css?family=Baloo+Paaji|Open+Sans:300,300i,400,400i,600,600i,700,700i");
 :root {
   --blue: #1e549f;
-  --indigo: #695aa6;
-  --purple: #6f42c1;
+  --indigo: #5baa92;
+  --purple: #5baa92;
   --pink: #e83e8c;
   --red: #ec185d;
   --orange: #ff6d02;
@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-  color: #695aa6;
+  color: #5baa92;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #493f75;
+  color: #5baa92;
   text-decoration: none;
 }
 
